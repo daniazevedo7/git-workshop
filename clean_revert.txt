@@ -1,2 +1,3 @@
 Base do arquivo
 Linha 1 - VOU APAGAR ESSA
+Linha 2 - Esta é segura
